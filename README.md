@@ -1,7 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 
-## Name : AADITHYA.R
-## Register Number : 212223240001
+### Name : AADITHYA.R
+### Register Number : 212223240001
 
 ## Aim: 
 To perform a study on Socket Programming
